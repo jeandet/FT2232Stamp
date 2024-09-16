@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DX07S016JA1R1500")(type "Legacy")(uri "${KIPRJMOD}/DX07S016JA1R1500/DX07S016JA1R1500.lib")(options "")(descr ""))
+)
